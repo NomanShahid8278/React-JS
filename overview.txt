@@ -3,7 +3,7 @@ React JS
 --> Course Overview
     --> Total Time: 4 Months.
     --> Week Days: Saturday - Sunday.
-    --> Git Repo: 
+    --> Git Repo: https://github.com/NomanShahid8278/React-JS
 
 --> Roadmap
     --> React-Router       (1 Week).
