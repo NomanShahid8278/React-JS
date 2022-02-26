@@ -1,0 +1,37 @@
+Data Structures
+
+--> Course Overview
+    --> Course Duration: 22 hours.
+    --> Total Time: 4 Months.
+    --> Week Days: Monday - Friday.
+    --> Git Repo: https://github.com/NomanShahid8278/Data-Structures.git
+
+--> Roadmap
+    --> Recursion (2 Days).
+
+    --> Big O     (2 Days).
+    
+    --> Sortings  (2 Days).
+    
+    --> Searching (2 Days).
+        --> DFS.
+        --> BFS.
+    
+    --> Array     (10 - 15 Days).  
+    
+    --> Link List (10 - 15 Days).
+    
+    --> Trees     (1 Month).
+        --> Binary Tree.
+        --> General Tree.
+        --> AVL Tree.
+        --> Red Black Tree.
+    
+    --> Graphs (DFS,BFS) (1 Month 10 Days).
+        --> Shortest Path.
+        --> Graph Cycle.
+        --> Graph Sorting.
+        --> Spanning Tree.
+        --> Back Tracking.
+
+    --> Note: Practice of different questions and examples of topics from different websites should be practiced in dedicated time.

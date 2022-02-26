@@ -1,0 +1,32 @@
+React JS
+
+--> Course Overview
+    --> Total Time: 4 Months.
+    --> Week Days: Saturday - Sunday.
+    --> Git Repo: 
+
+--> Roadmap
+    --> React-Router       (1 Week).
+
+    --> Apollo             (2 Weeks).
+    
+    --> React-Hook Form    (1 Week).
+        --> Formik.
+    
+    --> Redux/MobX/Zustand (3 Weeks).
+    
+    --> Style Components   (1 Week).  
+    
+    --> Chakra UI          (1 Week).
+    
+    --> React Testing Lib  (2 Weeks).
+
+    --> React Query        (2 Weeks).
+
+    --> Web Pack           (1 Week).
+
+    --> Next JS            (1 Month).
+
+    --> TypeScript         (2 Weeks).
+
+    --> Note: Practice of different questions and examples of topics from different websites should be practiced in dedicated time.
